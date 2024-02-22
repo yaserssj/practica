@@ -3,7 +3,8 @@ title: home
 permalink: /
 ---
 
-## Welcome to {{site.title}} {{page.title}} 
+## Welcome to {{site.title}} {{page.title}}
+
 <ul>
 {% for page in site.pages %}
   <li>
@@ -11,7 +12,7 @@ permalink: /
   </li>
 {% endfor %}
 </ul>
- 
+
 
 <ul>
   {% for post in site.posts %}
@@ -23,7 +24,6 @@ permalink: /
 
 You can use the [editor on GitHub](https://github.com/oscarnovillo/oscarnovillo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -32,7 +32,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
@@ -47,7 +49,7 @@ Syntax highlighted code block
 [Link](url) and ![Image]({{ site.url }}/assets/img/logo-Jekyll.png)
 ```
 
-![Image](/assets/img/logo-jekyll.png)
+![Image](/assets/img/duki.png)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
