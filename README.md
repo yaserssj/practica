@@ -1,4 +1,4 @@
 # practica
 
 Hola Oscar!
-Era Broma jeje!
+Era broma jeje!
