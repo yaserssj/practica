@@ -3,7 +3,7 @@ title: home
 permalink: /
 ---
 
-## Bienvenidos a {{site.title}} {{page.title}}
+## Bienvenidos a {{site.title}}
 
 <ul>
 {% for page in site.pages %}
